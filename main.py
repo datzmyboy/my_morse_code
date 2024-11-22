@@ -178,15 +178,3 @@ game.main_loop()
 
 
 
-
-
-
-# formula for laters code
-# text = "datamark"
-# my_list = []
-# for i in text:
-#     my_list.append(i)
-#     print(my_list[0])
-#     print(my_list)
-#     my_list.pop()
-# print(my_list)
